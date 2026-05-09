@@ -88,12 +88,12 @@ Diabetes_ANN_Project/
 ##  Outputs
 
 ### SHAP Summary Plot
-![SHAP Summary](‪outputs/results/shap_summary_plot.png)
+![SHAP Summary](‪C:\CV\computer_vision_pima_diabetes\outputs\results\shap_patient_explanation.png)
 
 ---
 
 ### SHAP Patient Explanation
-![SHAP Patient](‪outputs/results/shap_patient_explanation.png)
+![SHAP Patient](C:\CV\computer_vision_pima_diabetes\outputs\results\shap_summary_plot.png)
 
 ---
 
