@@ -1,2 +1,2 @@
-Final Test Accuracy: 77.27%
-Final Test Loss: 0.4991
+Final Test Accuracy: 74.03%
+Final Test Loss: 0.5099

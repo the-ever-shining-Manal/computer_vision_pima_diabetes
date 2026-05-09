@@ -1,6 +1,6 @@
 import numpy as np
 import os
-from ann_model import build_ann_model
+from src.model.ann_model import build_ann_model
 
 def train_model():
     X_train = np.load('data/processed/X_train.npy')
